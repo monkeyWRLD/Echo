@@ -1,0 +1,19 @@
+Create server 
+
+//add encryption for messaging 
+in the end use ftxui to create a panel on the server application to see stats of the program (cpu ussage, connected users, total messages etc etc)
+
+
+create a client
+specify a username 
+a decryption key to decrypt incomming messages and encrypt them 
+connect to a given ip and port
+
+
+https://github.com/xLoge/RSA/tree/main
+
+https://www.boost.org/doc/libs/
+
+https://www.bogotobogo.com/cplusplus/sockets_server_client.php
+
+https://www.codeproject.com/Articles/1264257/Socket-Programming-in-Cplusplus-using-boost-asio-T
